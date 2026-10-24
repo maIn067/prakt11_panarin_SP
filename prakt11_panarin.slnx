@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="prakt11_panarin/prakt11_panarin.vcxproj" Id="aa766a5b-b8c1-46b8-98d2-2617f8f0a499" />
+</Solution>

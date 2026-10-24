@@ -1,0 +1,8 @@
+.vs/
+ARM64/
+x64/
+x86/
+Debug/
+Release/
+*.user
+.DS_Store
